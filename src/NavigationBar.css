@@ -1,0 +1,39 @@
+.navigation_bar {
+  position: fixed;
+  top: 0;
+  left: -160px;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  padding: 10px 15px;
+  width: 180px;
+  height: 100vh;
+  background-color: white;
+  transition: all ease-in-out 0.5s 0.7s;
+  z-index: 100;
+}
+
+.navigation_bar:hover {
+  transform: translateX(160px);
+  transition: all ease-in-out 0.5s;
+}
+
+.navigation_description {
+  margin-left: 10px;
+  font-size: 0.7rem;
+}
+
+.navigation_title {
+  margin: 15px 0;
+}
+
+.navigation_title {
+  color: rgb(114, 114, 114);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navigation_title_active {
+  color: black;
+  font-size: 110%;
+}

@@ -1,0 +1,7 @@
+.animations {
+  text-align: center;
+}
+
+.animations > h1, h3 {
+  color: white;
+}

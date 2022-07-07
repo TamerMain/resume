@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "name": "Expenses List",
+    "description": "Базовая работа с компонентами. Props и useState",
+    "github": ""
+  },
+  {
+    "id": "05",
+    "name": "React Hooks",
+    "description": "Использование хуков: useReducer, useContext, useEffect, forwardRef + useImperativeHandle. Базовая работа с Local Storage.",
+    "github": ""
+  },
+  {
+    "id": "06",
+    "name": "ClassBased",
+    "description": "Пример компонента, написанный при помощи классов",
+    "github": ""
+  },
+  {
+    "id": "07",
+    "name": "StarWars Movies",
+    "description": "Обработка HTTP-запросов к стороннему ресурсу",
+    "github": ""
+  },
+  {
+    "id": "08",
+    "name": "Firebase Movies",
+    "description": "Создание POST и GET запросов при помощи Google Firebase",
+    "github": ""
+  },
+  {
+    "id": "09",
+    "name": "Custom useHttp",
+    "description": "Основы создания кастомных хуков",
+    "github": ""
+  },
+  {
+    "id": "10",
+    "name": "Custom useForm",
+    "description": "Валидации форм при помощи кастомных хуков",
+    "github": ""
+  },
+  {
+    "id": "11",
+    "name": "ReactMeals",
+    "description": "Демо интернет-магазина с корзиной и формой заказа при помощи Google Firebase",
+    "github": ""
+  },
+  {
+    "id": "12",
+    "name": "ReduxCart",
+    "description": "Демо корзины для заказов и обработка асинхронных запросов при помощи Redux и Google Firebase",
+    "github": ""
+  },
+  {
+    "id": "14",
+    "name": "React Router",
+    "description": "Основные компоненты: Router, Route, Switch, Redirect, Nav/Link. Использование хуков: useHistory, useLocation, useParams, useRouteMatch. ",
+    "github": ""
+  },
+  {
+    "id": "15",
+    "name": "Auth",
+    "description": "Обработка авторизации и работа с токенами при помощи Google Firebase IdentityToolkit",
+    "github": ""
+  },
+  {
+    "id": "16",
+    "name": "Animations",
+    "description": "Специфика использования анимаций с React при удалении компонента, сторонняя библиотека react-transition-group.",
+    "github": ""
+  }
+]

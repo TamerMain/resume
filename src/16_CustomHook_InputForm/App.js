@@ -1,0 +1,12 @@
+import BasicForm from './components/BasicForm';
+import "./App.css";
+
+function App() {
+  return (
+    <div className="inputForm">
+      <BasicForm />
+    </div>
+  );
+}
+
+export default App;
