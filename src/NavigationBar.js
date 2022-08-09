@@ -2,6 +2,7 @@ import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./NavigationBar.css";
 import navigationDescription from "./NavigationDescription.json";
+import ghLogo from "./ghLogo.png";
 import React from "react";
 
 function NavigationBar() {
@@ -25,8 +26,16 @@ function NavigationBar() {
             </NavLink>
           </div>
           {showDescriptionID === item.id && (
-            <div className="navigation_description">
-              {"- " + item.description}
+            <div>
+              <div className="navigation_description">
+                {"- " + item.description}
+              </div>
+              <a
+                className="navigation_github"
+                href={`https://github.com/TamerMain/resume/tree/master/src/${item.github}`}
+              >
+                Github <img src={ghLogo} alt="ghLogo" height="15px"></img>
+              </a>
             </div>
           )}
         </div>

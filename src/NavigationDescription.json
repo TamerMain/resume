@@ -3,72 +3,72 @@
     "id": "01",
     "name": "Expenses List",
     "description": "Базовая работа с компонентами. Props и useState",
-    "github": ""
+    "github": "01_ExpensesList"
   },
   {
     "id": "02",
     "name": "React Hooks",
     "description": "Использование хуков: useReducer, useContext, useEffect, forwardRef + useImperativeHandle. Базовая работа с Local Storage.",
-    "github": ""
+    "github": "02_useReducer"
   },
   {
     "id": "03",
     "name": "ClassBased",
     "description": "Пример компонента, написанный при помощи классов",
-    "github": ""
+    "github": "03_ClassBased"
   },
   {
     "id": "04",
     "name": "StarWars Movies",
     "description": "Обработка HTTP-запросов к стороннему ресурсу",
-    "github": ""
+    "github": "04_FetchAPI_StarWarsMovies"
   },
   {
     "id": "05",
     "name": "Firebase Movies",
     "description": "Создание POST и GET запросов при помощи Google Firebase",
-    "github": ""
+    "github": "05_FetchAPI_FirebaseMovies"
   },
   {
     "id": "06",
     "name": "Custom useHttp",
     "description": "Основы создания кастомных хуков",
-    "github": ""
+    "github": "06_CustomHook_useHttp_Firebase"
   },
   {
     "id": "07",
     "name": "Custom useForm",
     "description": "Валидации форм при помощи кастомных хуков",
-    "github": ""
+    "github": "07_CustomHook_InputForm"
   },
   {
     "id": "08",
     "name": "ReactMeals",
     "description": "Демо интернет-магазина с корзиной и формой заказа при помощи Google Firebase",
-    "github": ""
+    "github": "08_ReactMeals_Firebase"
   },
   {
     "id": "09",
     "name": "ReduxCart",
     "description": "Демо корзины для заказов и обработка асинхронных запросов при помощи Redux и Google Firebase",
-    "github": ""
+    "github": "09_Redux_Cart"
   },
   {
     "id": "10",
     "name": "React Router",
     "description": "Основные компоненты: Router, Route, Switch, Redirect, Nav/Link. Использование хуков: useHistory, useLocation, useParams, useRouteMatch. ",
-    "github": ""
+    "github": "10_ReactRouter_Complex"
   },
   {
     "id": "11",
     "name": "Auth",
     "description": "Обработка авторизации и работа с токенами при помощи Google Firebase IdentityToolkit",
-    "github": ""
+    "github": "11_GoogleAPI_IdentityToolkit"
   },
   {
     "id": "12",
     "name": "Animations",
     "description": "Специфика использования анимаций с React при удалении компонента, сторонняя библиотека react-transition-group.",
-    "github": ""
+    "github": "12_ReactAnimations_ReactTransitionGroup"
   }
 ]
