@@ -15,19 +15,19 @@ function App() {
       <Layout>
         <Suspense fallback={<div className='centered'><LoadingSpinner/></div>}>
           <Switch>
-            <Route exact path="/14">
-              <Redirect to="/14/quotes" />
+            <Route exact path="/10">
+              <Redirect to="/10/quotes" />
             </Route>
-            <Route path="/14/quotes" exact>
+            <Route path="/10/quotes" exact>
               <AllQuotes />
             </Route>
-            <Route path="/14/new-quote">
+            <Route path="/10/new-quote">
               <NewQuote />
             </Route>
-            <Route path="/14/quotes/:quoteId">
+            <Route path="/10/quotes/:quoteId">
               <QuoteDetail />
             </Route>
-            <Route path="/14/*">
+            <Route path="/10/*">
               <NotFound />
             </Route>
           </Switch>

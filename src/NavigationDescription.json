@@ -6,67 +6,67 @@
     "github": ""
   },
   {
-    "id": "05",
+    "id": "02",
     "name": "React Hooks",
     "description": "Использование хуков: useReducer, useContext, useEffect, forwardRef + useImperativeHandle. Базовая работа с Local Storage.",
     "github": ""
   },
   {
-    "id": "06",
+    "id": "03",
     "name": "ClassBased",
     "description": "Пример компонента, написанный при помощи классов",
     "github": ""
   },
   {
-    "id": "07",
+    "id": "04",
     "name": "StarWars Movies",
     "description": "Обработка HTTP-запросов к стороннему ресурсу",
     "github": ""
   },
   {
-    "id": "08",
+    "id": "05",
     "name": "Firebase Movies",
     "description": "Создание POST и GET запросов при помощи Google Firebase",
     "github": ""
   },
   {
-    "id": "09",
+    "id": "06",
     "name": "Custom useHttp",
     "description": "Основы создания кастомных хуков",
     "github": ""
   },
   {
-    "id": "10",
+    "id": "07",
     "name": "Custom useForm",
     "description": "Валидации форм при помощи кастомных хуков",
     "github": ""
   },
   {
-    "id": "11",
+    "id": "08",
     "name": "ReactMeals",
     "description": "Демо интернет-магазина с корзиной и формой заказа при помощи Google Firebase",
     "github": ""
   },
   {
-    "id": "12",
+    "id": "09",
     "name": "ReduxCart",
     "description": "Демо корзины для заказов и обработка асинхронных запросов при помощи Redux и Google Firebase",
     "github": ""
   },
   {
-    "id": "14",
+    "id": "10",
     "name": "React Router",
     "description": "Основные компоненты: Router, Route, Switch, Redirect, Nav/Link. Использование хуков: useHistory, useLocation, useParams, useRouteMatch. ",
     "github": ""
   },
   {
-    "id": "15",
+    "id": "11",
     "name": "Auth",
     "description": "Обработка авторизации и работа с токенами при помощи Google Firebase IdentityToolkit",
     "github": ""
   },
   {
-    "id": "16",
+    "id": "12",
     "name": "Animations",
     "description": "Специфика использования анимаций с React при удалении компонента, сторонняя библиотека react-transition-group.",
     "github": ""

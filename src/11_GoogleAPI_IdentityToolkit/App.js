@@ -16,20 +16,20 @@ function IdentityToolKit() {
     <div className="identityToolKit">
       <Layout>
         <Switch>
-          <Route path="/22/" exact>
+          <Route path="/11/" exact>
             <HomePage />
           </Route>
           {!authCtx.isLoggedIn && (
-            <Route path="/22/auth">
+            <Route path="/11/auth">
               <AuthPage />
             </Route>
           )}
-          <Route path="/22/profile">
+          <Route path="/11/profile">
             {authCtx.isLoggedIn && <UserProfile />}
-            {!authCtx.isLoggedIn && <Redirect to="/22/auth" />}
+            {!authCtx.isLoggedIn && <Redirect to="/11/auth" />}
           </Route>
-          <Route path="/22/*">
-            <Redirect to="/22/" />
+          <Route path="/11/*">
+            <Redirect to="/11/" />
           </Route>
         </Switch>
       </Layout>

@@ -10,7 +10,7 @@ const NewQuote = () => {
 
   useEffect(() => {
     if (status === "completed") {
-      history.push("/14/quotes");
+      history.push("/10/quotes");
     }
   }, [status, history]);
 

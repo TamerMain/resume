@@ -26,7 +26,7 @@ const ProfileForm = () => {
         },
       }
     ).then(res => {
-      history.replace('/22/');
+      history.replace('/11/');
     });
   };
   return (
